@@ -209,7 +209,7 @@ item.terraria:armor/jungle_wood/legs.name=Rich Mahogany Greaves
 item.terraria:vicious_powder.name=Порочный Порошок
 item.terraria:vile_powder.name=Мерзкий порошок
 item.terraria:armor/sunglasses/helm.name=Солнцезащитные Очки
-item.terraria:armor/sunglasses/helm.desc=Makes you look cool!
+item.terraria:armor/sunglasses/helm.desc=В них ты выглядишь круто!
 item.terraria:tools/pickaxe_cactus.name=Кактусовая кирка
 item.terraria:tools/sword_cactus.name=Кактусовый меч
 item.terraria:tools/pickaxe_bone.name=Костяная кирка
@@ -229,33 +229,33 @@ item.terraria:tools/hammer_silver.name=Серебряный молот
 item.terraria:tools/hammer_tungsten.name=Вольфрамовый молот
 item.terraria:tools/hammer_gold.name=Золотой молот
 item.terraria:tools/sword_arkhalis.name=Аркалис
-item.terraria:game_obj/alchemy_platform.name=Bottle
-item.terraria:game_obj/alchemy_table.name=Bottle
-item.terraria:game_obj/alchemy_workbench.name=Bottle
-item.terraria:tools/shortsword_copper.name=Copper Shortsword
-item.terraria:tools/shortsword_tin.name=Tin Shortsword
-item.terraria:tools/shortsword_iron.name=Iron Shortsword
-item.terraria:tools/shortsword_lead.name=Lead Shortsword
-item.terraria:tools/shortsword_silver.name=Silver Shortsword
-item.terraria:tools/shortsword_tungsten.name=Tungsten Shortsword
-item.terraria:tools/shortsword_gold.name=Gold Shortsword
-item.terraria:tools/shortsword_platinum.name=Platinum Shortsword
-item.terraria:wings/demon.name=Demon Wings
+item.terraria:game_obj/alchemy_platform.name=Бутылёк
+item.terraria:game_obj/alchemy_table.name=Бутылёк
+item.terraria:game_obj/alchemy_workbench.name=Бутылёк
+item.terraria:tools/shortsword_copper.name=Медный Короткий Меч
+item.terraria:tools/shortsword_tin.name=Оловянный Короткий Меч
+item.terraria:tools/shortsword_iron.name=Железный Короткий Меч
+item.terraria:tools/shortsword_lead.name=Свинцовый Короткий Меч
+item.terraria:tools/shortsword_silver.name=Серебрянный Короткий Меч
+item.terraria:tools/shortsword_tungsten.name=Вольфрамовый Короткий Меч
+item.terraria:tools/shortsword_gold.name=Золотой Короткий Меч
+item.terraria:tools/shortsword_platinum.name=Платиновый Короткий Меч
+item.terraria:wings/demon.name=Крылья Демона
 item.terraria:wings/dev_zeith.name=Лапы Зейта
 item.terraria:wings/dev_flamb.name=Фламбовы Крылья
 item.terraria:wings/dev_jae.name=Крылья Джея
 item.terraria:wings/dev_ganza.name=Крылья Ganza
 item.terraria:space_gun.name=Космическая пушка
 item.terraria:potions/magic_power.name=Зелье магической силы
-item.terraria:dev_jae_glock.name=Jae's Glock
-item.terraria:armor/dev_jae/helm.name=Jae's Helmet
-item.terraria:armor/dev_jae/body.name=Jae's Breastplate
-item.terraria:armor/dev_jae/legs.name=Jae's Leggings
-item.terraria:tools/sword_wooden.name=Wooden Sword
-item.terraria:tools/sword_boreal.name=Boreal Wood Sword
-item.terraria:tools/sword_palm.name=Palm Wood Sword
-item.terraria:tools/sword_rich_mahogany.name=Rich Mahogany Sword
-item.terraria:tools/sword_ebonwood.name=Ebonwood Sword
+item.terraria:dev_jae_glock.name=Глок Jae
+item.terraria:armor/dev_jae/helm.name=Шлем Jae
+item.terraria:armor/dev_jae/body.name=Нагрудник Jae
+item.terraria:armor/dev_jae/legs.name=Поножи Jae
+item.terraria:tools/sword_wooden.name=Деревянный Меч
+item.terraria:tools/sword_boreal.name=Меч из Северной древесины
+item.terraria:tools/sword_palm.name=Меч из пальмовой древесины
+item.terraria:tools/sword_rich_mahogany.name=Меч из махагони
+item.terraria:tools/sword_ebonwood.name=Меч из Эбеновой Древесины
 item.terraria:tools/sword_shadewood.name=Shadewood Sword
 item.terraria:tools/sword_pearlwood.name=Pearlwood Sword
 item.terraria:tools/sword_gold.name=Gold Broadsword
@@ -693,29 +693,28 @@ tooltip.terraria:buff.shine=Вы излучаете свет
 buff.creative.name=Творчество
 tooltip.terraria:buff.creative=Неограниченные ресурсы и мгновенное разрушение блоков
 
-buff.star_in_a_bottle.name=Star in a Bottle
-tooltip.terraria:buff.star_in_a_bottle=Increased mana regeneration
+buff.star_in_a_bottle.name=Звезда в бутылке
+tooltip.terraria:buff.star_in_a_bottle=Увеличена регенерация маны
 
-buff.heart_lamp.name=Heart Lamp
-tooltip.terraria:buff.heart_lamp=Life regen is increased
-
+buff.heart_lamp.name=Сердечная Лампа
+tooltip.terraria:buff.heart_lamp=Регенерация здоровья увеличена
 buff.cozy_fire.name=Уютный огонь
 tooltip.terraria:buff.cozy_fire=Восстановление жизни немного ускорено
 
 buff.magic_power.name=Магическая сила
-tooltip.terraria:buff.magic_power=20%% increased magic damage
+tooltip.terraria:buff.magic_power=20%% увеличен магический урон
 
 buff.cursed_inferno.name=Cursed Inferno
-tooltip.terraria:buff.cursed_inferno=Losing life
+tooltip.terraria:buff.cursed_inferno=Терять жизнь
 
 buff.builder.name=Строитель
-tooltip.terraria:buff.builder=Increased placement speed and range
+tooltip.terraria:buff.builder=Увеличена скорость и растояние поставки блоков
 
 buff.water_walking.name=Хождение по воде
-tooltip.terraria:buff.water_walking=Sneak to enter water
+tooltip.terraria:buff.water_walking=Крадитесь чтобы зайти в воду
 
 buff.clairvoyance.name=Clairvoyance
-tooltip.terraria:buff.clairvoyance=Magic powers are increased
+tooltip.terraria:buff.clairvoyance=Магические силы увеличены
 ###########
 
 ###TOOLTIPS###
@@ -757,34 +756,34 @@ tooltip.terraria:solareclipse=Происходит солнечное затме
 tooltip.terraria:pickaxe_power=Эффективность кирки: %,d%%
 tooltip.terraria:axe_power=Эффективность топора: %,d%%
 tooltip.terraria:hammer_power=Эффективность молота: %,d%%
-tooltip.terraria:reduced_mana_usage=%,d%% reduced mana usage
-tooltip.terraria:bless_ore/cobalt=Your world has been blessed with Cobalt!
-tooltip.terraria:bless_ore/palladium=Your world has been blessed with Palladium!
-tooltip.terraria:bless_ore/mythril=Your world has been blessed with Mythril!
-tooltip.terraria:bless_ore/orichalcum=Your world has been blessed with Orichalcum!
-tooltip.terraria:bless_ore/adamantite=Your world has been blessed with Adamantite!
-tooltip.terraria:bless_ore/titanium=Your world has been blessed with Titanium!
+tooltip.terraria:reduced_mana_usage=%,d%% уменьшает использование маны
+tooltip.terraria:bless_ore/cobalt=Ваш мир был благославлён Кобальтом!
+tooltip.terraria:bless_ore/palladium=Ваш мир был благославлён Палладиумом!
+tooltip.terraria:bless_ore/mythril=Ваш мир был благославлён Мифрилом!
+tooltip.terraria:bless_ore/orichalcum=Ваш мир был благославлён Орихалком!
+tooltip.terraria:bless_ore/adamantite=Ваш мир был благославлён Адамантитом!
+tooltip.terraria:bless_ore/titanium=Ваш мир был благославлён Титаном!
 tooltip.terraria:dev_item='Great for impersonating devs!'
 tooltip.terraria:critical_strike_chance=%,d%% шанс критического урона
-tooltip.terraria:campfire=Life regen is increased when near a campfire
+tooltip.terraria:campfire=Регенерация здоровья увеличивается когда рядом костёр
 tooltip.terraria:dev_jae_glock=Лучший выбор в школах по всему миру!
 tooltip.terraria:vanity_item=Vanity Item
 
-tooltip.terraria:star_cannon=Shoots fallen stars
+tooltip.terraria:star_cannon=Стреляет упавшими звёздами
 tooltip.terraria:cursed_flame=Даже вода не может потушить пламя
-tooltip.terraria:vial_of_venom=Extremely toxic
+tooltip.terraria:vial_of_venom=Экстремально токсичный
 tooltip.terraria:bomb=Небольшой взрыв, который уничтожит некоторые блоки
-tooltip.terraria:dynamite=A large explosion that will destroy most tiles
+tooltip.terraria:dynamite=Большой взрыв, который уничтожит большинство блоков
 
-speed.terraria:insanely_fast=Insanely Fast Speed
-speed.terraria:very_fast=Very Fast Speed
-speed.terraria:fast=Fast Speed
-speed.terraria:average=Average Speed
-speed.terraria:slow=Slow Speed
-speed.terraria:very_slow=Very Slow Speed
-speed.terraria:extremely_slow=Extremely Slow Speed
-speed.terraria:snail=Snail Speed
-speed.terraria:mysterious=Mysterious Speed
+speed.terraria:insanely_fast=Безумно быстрая скорость
+speed.terraria:very_fast=Очень быстрая скорость
+speed.terraria:fast=Быстрая скорость
+speed.terraria:average=Средняя скорость
+speed.terraria:slow=Медленная скорость
+speed.terraria:very_slow=Очень медленная скорость
+speed.terraria:extremely_slow=Экстремально маленькая скорость
+speed.terraria:snail=Скорость улитки
+speed.terraria:mysterious=Мистическая скорость
 
 damage.terraria:melee=%,d ед. ближнего урона
 damage.terraria:ranged=%,d ед. дальнего урона
@@ -815,8 +814,8 @@ achievement.terraria:star_power.desc=Создайте и примените кр
 achievement.terraria:its_hard.name=Это сложно!
 achievement.terraria:its_hard.desc=Разблокируйте режим Хардмод, впустив в свой мир духов света и тьмы.
 
-achievement.terraria:begone_evil.name=Begone, Evil!
-achievement.terraria:begone_evil.desc=Smash a demon or crimson altar with a powerful, holy hammer.
+achievement.terraria:begone_evil.name=Беги, зло!
+achievement.terraria:begone_evil.desc=Снеси демонический или багровый алтарь мощным, святым молотом.
 
 achievement.terraria:extra_shiny.name=Экстраблеск!
 achievement.terraria:extra_shiny.desc=Копайте новую руду, появившуюся после разрушения алтарей.
@@ -824,8 +823,8 @@ achievement.terraria:extra_shiny.desc=Копайте новую руду, поя
 achievement.terraria:photosynthesis.name=Фотосинтез
 achievement.terraria:photosynthesis.desc=Вскопайте самородок хлорофитовой руды.
 
-achievement.terraria:get_a_life.name=Get a Life
-achievement.terraria:get_a_life.desc=Consume a life fruit, which grows in the thick of subterranean jungle grass.
+achievement.terraria:get_a_life.name=Получи Жизнь
+achievement.terraria:get_a_life.desc=Потребите живой фрукт, который растёт в густой подземной траве джунглей.
 
 achievement.terraria:into_orbit.name=На Орбиту
 achievement.terraria:into_orbit.desc=Поднимитесь на самую верхную точку мира.
@@ -848,8 +847,8 @@ achievement.terraria:marathon_medalist.desc=Путешествуйте пешк�
 achievement.terraria:topped_off.name=Выше некуда
 achievement.terraria:topped_off.desc=Получите полный запас маны и жизней.
 
-achievement.terraria:you_can_do_it.name=You Can Do It!
-achievement.terraria:you_can_do_it.desc=Survive your character's first full night.
+achievement.terraria:you_can_do_it.name=Ты сможешь сделать это!!
+achievement.terraria:you_can_do_it.desc=Выживи первую полную ночь своего персонажа.
 ##################
 
 ###MISC###
